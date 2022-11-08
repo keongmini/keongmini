@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgreSQL&logoColor=white"/></a> 
 
 
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
 
 
